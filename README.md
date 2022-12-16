@@ -1,1 +1,2 @@
-# GreedyGame_Assignment
+# Greedy Game Analytics Assignment
+
